@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\</FILEPATH>
+      <FILENAME>procedure.cpp</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>La fonction utilise '28484' octets de pile : dépasse /analyze:stacksize '16384'. Si possible, déplacez certaines données vers le tas.</DESCRIPTION>
+    <FUNCTION>RechercheLivre</FUNCTION>
+    <DECORATED>?RechercheLivre@@YAXAAUt_biblio@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAUt_livre@@Ut_liste_auteur@@@Z</DECORATED>
+    <FUNCLINE>30</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\</FILEPATH>
+      <FILENAME>procedure.cpp</FILENAME>
+      <LINE>83</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>La fonction utilise '45644' octets de pile : dépasse /analyze:stacksize '16384'. Si possible, déplacez certaines données vers le tas.</DESCRIPTION>
+    <FUNCTION>RechercheLivre_titre</FUNCTION>
+    <DECORATED>?RechercheLivre_titre@@YAXUt_biblio@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@Ut_liste_auteur@@@Z</DECORATED>
+    <FUNCLINE>83</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\</FILEPATH>
+      <FILENAME>procedure.cpp</FILENAME>
+      <LINE>125</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>La fonction utilise '45644' octets de pile : dépasse /analyze:stacksize '16384'. Si possible, déplacez certaines données vers le tas.</DESCRIPTION>
+    <FUNCTION>RechercheLivre_genre</FUNCTION>
+    <DECORATED>?RechercheLivre_genre@@YAXUt_biblio@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@Ut_liste_auteur@@@Z</DECORATED>
+    <FUNCLINE>125</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\</FILEPATH>
+      <FILENAME>procedure.cpp</FILENAME>
+      <LINE>145</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>La fonction utilise '45644' octets de pile : dépasse /analyze:stacksize '16384'. Si possible, déplacez certaines données vers le tas.</DESCRIPTION>
+    <FUNCTION>RechercheLivre_annee</FUNCTION>
+    <DECORATED>?RechercheLivre_annee@@YAXUt_biblio@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@Ut_liste_auteur@@@Z</DECORATED>
+    <FUNCLINE>145</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\</FILEPATH>
+      <FILENAME>procedure.cpp</FILENAME>
+      <LINE>165</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>La fonction utilise '45644' octets de pile : dépasse /analyze:stacksize '16384'. Si possible, déplacez certaines données vers le tas.</DESCRIPTION>
+    <FUNCTION>RechercheLivre_auteur</FUNCTION>
+    <DECORATED>?RechercheLivre_auteur@@YAHUt_biblio@@Ut_liste_auteur@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>165</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\</FILEPATH>
+      <FILENAME>procedure.cpp</FILENAME>
+      <LINE>216</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>La déclaration locale de 'MAXLIVRE' masque la déclaration précédente à la ligne '12' de 'c:\users\rougi\documents\docs dut\structure de données - algo fondam\tp\biblio\biblio\include1.h'.</DESCRIPTION>
+    <FUNCTION>Ajoutlivre</FUNCTION>
+    <DECORATED>?Ajoutlivre@@YAXQAUt_livre@@AAHHQAUt_auteur@@HAAUt_liste_auteur@@Ut_date@@@Z</DECORATED>
+    <FUNCLINE>216</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\</FILEPATH>
+        <FILENAME>include1.h</FILENAME>
+        <LINE>12</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\</FILEPATH>
+      <FILENAME>procedure.cpp</FILENAME>
+      <LINE>216</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>La déclaration locale de 'MAXAUTEUR' masque la déclaration précédente à la ligne '13' de 'c:\users\rougi\documents\docs dut\structure de données - algo fondam\tp\biblio\biblio\include1.h'.</DESCRIPTION>
+    <FUNCTION>Ajoutlivre</FUNCTION>
+    <DECORATED>?Ajoutlivre@@YAXQAUt_livre@@AAHHQAUt_auteur@@HAAUt_liste_auteur@@Ut_date@@@Z</DECORATED>
+    <FUNCLINE>216</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\</FILEPATH>
+        <FILENAME>include1.h</FILENAME>
+        <LINE>13</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\</FILEPATH>
+      <FILENAME>procedure.cpp</FILENAME>
+      <LINE>345</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6244</DEFECTCODE>
+    <DESCRIPTION>La déclaration locale de 'MAXAUTEUR' masque la déclaration précédente à la ligne '13' de 'c:\users\rougi\documents\docs dut\structure de données - algo fondam\tp\biblio\biblio\include1.h'.</DESCRIPTION>
+    <FUNCTION>AjoutAuteur</FUNCTION>
+    <DECORATED>?AjoutAuteur@@YAXAAUt_liste_auteur@@Ut_date@@AAHH@Z</DECORATED>
+    <FUNCLINE>345</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\</FILEPATH>
+        <FILENAME>include1.h</FILENAME>
+        <LINE>13</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\</FILEPATH>
+      <FILENAME>procedure.cpp</FILENAME>
+      <LINE>785</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>6330</DEFECTCODE>
+    <DESCRIPTION>'char' passé comme _Param_(1)lorsque 'unsigned char' est requis dans l'appel à 'isdigit'.</DESCRIPTION>
+    <FUNCTION>test_lettre</FUNCTION>
+    <DECORATED>?test_lettre@@YA_NAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>777</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\</FILEPATH>
+      <FILENAME>procedure.cpp</FILENAME>
+      <LINE>840</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>La fonction utilise '28436' octets de pile : dépasse /analyze:stacksize '16384'. Si possible, déplacez certaines données vers le tas.</DESCRIPTION>
+    <FUNCTION>verif_deces</FUNCTION>
+    <DECORATED>?verif_deces@@YAXUt_liste_auteur@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAV23@@Z</DECORATED>
+    <FUNCLINE>840</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

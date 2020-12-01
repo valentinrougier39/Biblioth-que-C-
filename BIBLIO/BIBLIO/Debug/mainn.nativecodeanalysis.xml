@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\</FILEPATH>
+      <FILENAME>mainn.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>La fonction utilise '45728' octets de pile : dépasse /analyze:stacksize '16384'. Si possible, déplacez certaines données vers le tas.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,11 @@
+﻿  new_main.cpp
+C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\new_main.cpp(28,12): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\new_main.cpp(29,13): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\new_main.cpp(30,13): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+  procedure.cpp
+C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\procedure.cpp(39,6): warning C4101: 'pos_recherche' : variable locale non référencée
+C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\procedure.cpp(869,6): warning C4101: 'pos_recherche' : variable locale non référencée
+C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\procedure.cpp(939,6): warning C4101: 'i' : variable locale non référencée
+C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\BIBLIO\procedure.cpp(958,6): warning C4101: 'i' : variable locale non référencée
+  Génération de code en cours...
+  BIBLIO.vcxproj -> C:\Users\rougi\Documents\Docs DUT\Structure de Données - Algo Fondam\TP\BIBLIO\Debug\BIBLIO.exe
