@@ -1,2 +1,2 @@
 # Bibliotheque
-Projet réalisé lors du premier semestre de DUT Informatique.
+Projet réalisé en collaboration avec Manon Deleest lors du premier semestre de DUT Informatique.
