@@ -1,2 +1,2 @@
-# Biblioth-que-C-
+# Bibliotheque
 Projet réalisé lors du premier semestre de DUT Informatique.
