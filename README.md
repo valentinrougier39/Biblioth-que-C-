@@ -21,3 +21,13 @@ C'est sans doute la partie que l'on consultera le plus souvent, la liste des aut
 On retrouve sous forme de champs clé/valeur les inforations saisies.
 
 ![Réperotier la liste des livres/auteurs](ScreenRapport/6.png)
+
+### Gérer les livres/auteurs
+Dans cette section, l'utilisateur pourra gérer ses saisies, il pourra les modifier si par exemple un auteur décède ou si celui-ci s'ets tout simplement trompé.
+De plus, il aura l'opportunité de rechercher ou trier un livre grâce à différents filtres. 
+
+![Gérer les livres/auteurs : Rechercher un livre](ScreenRapport/8.png)
+
+De même on peut rechercher un auteur par nom ou par nationalité par exemple. 
+
+![Gérer les livres/auteurs : Rechercher un auteur](ScreenRapport/10.png)
