@@ -1,4 +1,4 @@
-# Bibliotheque
+# Bibliothèque
 Projet réalisé au cours du premier semestre de DUT Informatique. Ce projet a été élaboré sur plusieurs mois (Octobre 2019 - Janvier 2020) en collaboration avec [Manon Deleest](https://github.com/manon-deleest/manon-deleest).
 
 ![Page d'accueil bibliothèque](ScreenRapport/biblio_optimized.png)
