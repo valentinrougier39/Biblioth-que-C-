@@ -1,6 +1,8 @@
 # Bibliotheque
 Projet réalisé au cours du premier semestre de DUT Informatique. Ce projet a été élaboré sur plusieurs mois (Octobre 2019 - Janvier 2020) en collaboration avec [Manon Deleest](https://github.com/manon-deleest/manon-deleest).
 
+![Page d'accueil bibliothèque](ScreenRapport/biblio_optimized.png)
+
 ## Présentation
 
 Ce projet consitait a élaborer une bibliothèque numérique, un outil permettant de lister les oeuvres que nous avons. Le projet de la bibliothèque réalisé en C++ est réellement notre premier projet à l'IUT. Il intervient dans le module d'algorithmie. Il nous a permis de mettre en pratique certaines notions importantes apprises lors de ce module.
