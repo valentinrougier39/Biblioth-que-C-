@@ -33,3 +33,11 @@ De plus, il aura l'opportunité de rechercher ou trier un livre grâce à diffé
 De même on peut rechercher un auteur par nom ou par nationalité par exemple. 
 
 ![Gérer les livres/auteurs : Rechercher un auteur](ScreenRapport/10.png)
+
+##Outils et langages 
+
+#### Projet développé en : 
+- C++
+
+#### Avec : 
+- Visual Studio
